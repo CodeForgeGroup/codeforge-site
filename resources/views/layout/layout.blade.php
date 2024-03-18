@@ -8,7 +8,7 @@
     -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Roxy by GetTemplates.co</title>
+    <title>@yield('title')</title>
     <meta name="description" content="Roxy">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -32,11 +32,12 @@
 
 </head>
 <body data-spy="scroll" data-target="#navbar" class="static-layout">
-<header>
+<div class="banner" style="background-image: url(img/bg.jpg);">
+<header style="background-image: url(img/bg.jpg);">
 	<nav id="header-navbar" class="navbar navbar-expand-lg py-4">
     <div class="container">
         <a class="navbar-brand d-flex align-items-center text-white" href="/">
-            <h3 class="font-weight-bolder mb-0">ROXY</h3>
+            <h3 style="width:30%;" class="font-weight-bolder mb-0"><img src="{{ asset('img/logoSombra.png') }}" alt=""></h3>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-nav-header" aria-controls="navbar-nav-header" aria-expanded="false" aria-label="Toggle navigation">
             <span class="lnr lnr-menu"></span>
@@ -47,18 +48,16 @@
                     <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about.html">About</a>
+                    <a class="nav-link" href="/sobre">Sobre</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="blog.html">Blog</a>
+                    <a class="nav-link" href="/servico">Serviços</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact</a>
+                    <a class="nav-link" href="/blog">Projetos</a>
                 </li>
                 <li class="nav-item">
-                    <a id="side-search-open" class="nav-link" href="#">
-                        <span class="lnr lnr-magnifier"></span>
-                    </a>
+                    <a class="nav-link" href="/contato">Contato</a>
                 </li>
                  <li class="nav-item only-desktop">
                     <a class="nav-link" id="side-nav-open" href="#">
@@ -99,9 +98,11 @@
 		</form>
 	</div>
 
-</div>	<div class="jumbotron d-flex align-items-center">
+</div>
+
+	<div style="background-color: black; background-image: url(img/banner/bannerEscuro.png);" class="jumbotron d-flex align-items-center">
   <div class="container text-center">
-    <h1 class="display-1 mb-4">RO<br>XY</h1>
+    <h1 class="display-1 mb-4">@yield('primeiro')<br>@yield('segundo')</h1>
   </div>
   <div class="rectangle-1"></div>
   <div class="rectangle-2"></div>
@@ -122,8 +123,10 @@
   <div class="triangle triangle-4">
   	<img src="img/obj_triangle.png" alt="">
   </div>
-</div>	<!-- Features Section-->
+</div>
+	<!-- Features Section-->
 </header>
+</div>
 
 <main>
     @yield('conteudo')
