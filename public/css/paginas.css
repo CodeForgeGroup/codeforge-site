@@ -2140,6 +2140,7 @@ body {
     .member {
         flex-basis: 100%;
         font-size: 0.7rem;
+        flex-direction: column;
     }
     .social-link .fab {
         width: 30px;
@@ -2151,7 +2152,7 @@ body {
         order: 1;
     }
     .member:nth-child(even) .member-image {
-        order: 2;
+        order: 1;
     }
 
     /* Merubah posisi sigitiga elemen genap */
