@@ -1311,8 +1311,9 @@ Page Heading Style
 }
 
 .page-heading p {
-  padding-right: 25%;
+  padding-right: 10%;
   margin-bottom: 30px;
+  text-align: justify;
 }
 
 .page-heading .main-button {
@@ -2043,7 +2044,7 @@ body {
     width: 35px;
     height: 35px;
     line-height: 35px;
- 
+
     background-color: #c03afe;
     color: #fff;
     margin: 0 7px;
@@ -2125,13 +2126,13 @@ body {
 /* Mobile Styles */
 @media screen and (max-width: 770px) {
     p {
-        font-size: 0.8rem !important;
+        font-size: 1rem!important;
     }
     h1,
     h2,
     h3,
     h4 {
-        font-size: 0.8rem !important;
+        font-size: 1.3rem!important;
     }
     .list-members {
         width: 95%;
