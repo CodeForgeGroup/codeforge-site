@@ -34,7 +34,7 @@ SERVIÇO
                 <div class="icon">
                   <img src="img/services-01.jpg" alt="discover SEO" class="templatemo-feature">
                 </div>
-                <h4>Soluções SEO Personalizadas</h4>
+                <h4>Soluções SEO</h4>
                 <p>
                   Potencialize sua visibilidade online com nossa expertise em SEO.
                 </p>
@@ -64,7 +64,7 @@ SERVIÇO
                 </div>
                 <h4>Marketing Digital</h4>
                 <p>
-                  Impulsione sua marca online com nosso marketing digital estratégico e eficaz.
+                  Impulsione sua marca online com nosso marketing digital estratégico.
                 </p>
                 <div class="second-button d-flex justify-content-end">
                   <a href="{{ url('/contato') }}">Contato</a>

@@ -90,7 +90,7 @@ SOBRE
                 <div class="col-lg-12">
                   <div class="menu">
                     <div class="active"><span>Planejamento</span></div>
-                    <div><span>Design e Desenvolvimento</span></div>
+                    <div><span>Desenvolvimento</span></div>
                     <div><span>Testes e Otimização</span></div>
                     <div class="last-item"><span>Lançamento e Suporte</span></div>
                   </div>

@@ -130,7 +130,7 @@ body {
 .second-button a {
   font-size: 14px;
   color: #fff;
-  background-color: #c4640b;
+  background-color: #ff9900;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 10px;
@@ -884,15 +884,6 @@ Services Style
   padding-right: 30px;
 }
 
-.services::before {
-  content: url(../img/services-left.jpg);
-  top: 120px;
-  left: 0;
-  position: absolute;
-  width: 844px;
-  height: 714px;
-  z-index: -1;
-}
 
 
 
@@ -1280,7 +1271,7 @@ Page Heading Style
 }
 
 .page-heading h4 span {
-  color: #c03afe;
+  color: rgb(194, 112, 11);
 }
 
 .page-heading p {
@@ -1376,7 +1367,7 @@ Infos Style
 
 .video-info .skill-slide .fill {
   height: 10px;
-  background-color: #c4640b;
+  background-color: #ff9900;
   border-radius: 5px;
 }
 
@@ -1475,7 +1466,7 @@ Happy Clients Style
 }
 
 .happy-clients .naccs .menu div.active {
-  color: #c4640b;
+  color: #ff9900;
 }
 
 .happy-clients ul.nacc {
@@ -1519,7 +1510,7 @@ Happy Clients Style
 
 .happy-clients ul.nacc li .info span {
   display: inline-block;
-  background-color: #c4640b;
+  background-color: #ff9900;
   border-radius: 20px;
   height: 40px;
   line-height: 40px;
@@ -1581,7 +1572,7 @@ Happy Steps Style
 */
 
 .happy-steps {
-  background-image: url(../img/video-bg.jpg);
+  background-image: url(../img/bg-session.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
@@ -1985,7 +1976,7 @@ body {
     width: 35px;
     height: 35px;
     line-height: 35px;
-    background-color: #c4640b;
+    background-color: #ff9900;
     color: #fff;
     margin: 0 7px;
     cursor: pointer;
@@ -1993,7 +1984,7 @@ body {
 }
 
 .social-link .fab:hover {
-    background: #ff9900;
+    background: #c4640b;
     color: #fff;
     transform: translateY(-7px);
 }
@@ -2032,7 +2023,7 @@ body {
 
 .barra-sobre {
     height: 5px;
-    background-color:#c4640b;
+    background-color:#ff9900;
     ;
     text-align: right;
     color: white;
