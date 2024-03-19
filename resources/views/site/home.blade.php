@@ -17,11 +17,13 @@ FORGE
             <!-- Section Title -->
             <div class="title-wrap mb-5" data-aos="fade-up">
                 <h2 class="section-title">
-                    A template built by <a href="https://gettemplates.co" target="_blank">GetTemplates.co</a>
+                    Criado e feito por <a href="https://codeforgedev.com.br" target="_blank">CodeForge</a>
                 </h2>
-                <p class="section-sub-title">Praesent commodo cursus magna, vel scelerisque nisl consectetur et. <br> pharetra augue. Donec id elit non mi.</p>
+                <p class="section-sub-title">Fazemos com fervor, disciplina e dedicação, para que você tenha<br>  o melhor alavancamento para sua empresa.</p>
             </div>
+
             <!-- End of Section Title -->
+
             <div class="row">
                 <!-- Features Holder-->
                 <div class="col-md-10 offset-md-1 features-holder">
@@ -32,15 +34,15 @@ FORGE
                                 <div class="my-4">
                                     <i class="lnr lnr-cog fs-40"></i>
                                 </div>
-                                <h4>Easy to Customize</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                <h4>Fácil de personalizar</h4>
+                                <p>Oferecemos soluções que são facilmente adaptáveis às suas necessidades específicas, permitindo uma personalização rápida e fácil para os requisitos do seu projeto.</p>
                             </div>
                             <div class="shadow rounded feature-item p-4 mb-4" data-aos="fade-up">
                                 <div class="my-4">
                                     <i class="lnr lnr-frame-contract fs-40"></i>
                                 </div>
                                 <h4>Pixel Perfect</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                <p>Garantimos um trabalho meticuloso e detalhado em cada aspecto do design e impressionantes em cada pixel.</p>
                             </div>
                         </div>
                         <!-- End of Feature Item -->
@@ -51,14 +53,14 @@ FORGE
                                     <i class="lnr lnr-bubble fs-40"></i>
                                 </div>
                                 <h4>Full Support</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                <p>Estamos sempre aqui para ajudar. Oferecemos suporte completo durante todo o processo, desde a concepção até a implementação.</p>
                             </div>
                             <div class="shadow rounded feature-item p-4 mb-4" data-aos="fade-up">
                                 <div class="my-4">
                                     <i class="lnr lnr-magic-wand fs-40"></i>
                                 </div>
                                 <h4>Clean Design</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                <p>Nosso foco está em criar designs limpos e elegantes que não apenas cativam visualmente, mas também proporcionam uma experiência de usuário intuitiva e agradável.</p>
                             </div>
                         </div>
                         <!-- End of Feature Item -->
@@ -68,22 +70,22 @@ FORGE
                                 <div class="my-4">
                                     <i class="lnr lnr-clock fs-40"></i>
                                 </div>
-                                <h4>Ontime Project</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                <h4>Projeto no prazo</h4>
+                                <p>Comprometemo-nos a entregar seus projetos dentro do prazo acordado, mantendo a qualidade e garantindo que você tenha uma experiência tranquila e sem atrasos.</p>
                             </div>
                             <div class="shadow rounded feature-item p-4 mb-4" data-aos="fade-up">
                                 <div class="my-4">
                                     <i class="lnr lnr-thumbs-up fs-40"></i>
                                 </div>
-                                <h4>Built with SASS</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                <h4>Feitos com modernidade</h4>
+                                <p>Nossos projetos são desenvolvidos utilizando tecnologias modernas, garantindo não apenas eficiência e flexibilidade, mas também um código limpo e organizado.</p>
                             </div>
                         </div>
                         <!-- End of Feature Item -->
                     </div>
                 </div>
-                <!-- End of Features Holder-->
             </div>
+
         </div>
     </div>
 </section>
@@ -96,13 +98,13 @@ FORGE
                     <div class="row align-items-center text-white">
 
                         <div class="col-md-4 offset-md-2 col-sm-6" data-aos="fade-right">
-                            <h4 class="mb-4">Capture every moments and share it to all your friends</h4>
-                            <p>Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Cras mattis consectetur purus sit amet.</p>
-                            <button type="button" class="btn btn-outline-primary">FEATURES</button>
+                            <h4 class="mb-4">Responsividade pratica e rapida para seus projetos</h4>
+                            <p>Trabalhamos com o melhor alcance do mercado para que possamos proporcionar responsividade e acessibilidade para todos os clientes.</p>
+                            <button type="button" class="btn btn-outline-primary">CONTATO</button>
                         </div><!--/ .col-md-4.col-md-offset-2.col-sm-6 -->
 
                         <div class="col-md-4 offset-md-right-2 col-sm-6" data-aos="flip-right">
-                            <img class="my-5" src="img/app-profile-mockup.png" alt="">
+                            <img style="border-radius: 20px;" class="my-5" src="img/app-codeforge.png" alt="">
                         </div><!--/ .col-md-4.col-md-offset-right-2.col-sm-6 -->
 
                     </div><!--/ .featurettes-item -->
@@ -115,33 +117,251 @@ FORGE
 
 </section>	<section id="section-featurettes" class="featurettes">
 
-    <div class="container">
-        <div class="section-content">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="row align-items-center">
+    <style>
+        #counter-up-trigger{
+            padding: 150px;
+        }
+        .counter-up .cover {
+    background-color: rgba(0, 7, 11, 0.8);
+    }
+    .cover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    background-color: rgba(0, 46, 82, 0.15);
+    }
 
-                        <div class="col-md-4 offset-md-2 col-sm-6" data-aos="flip-left">
-                            <img class="my-5" src="img/app-profile-mockup.png" alt="">
-                        </div><!--/ .col-md-4.col-md-offset-right-2.col-sm-6 -->
+    .devider {
+    width: 100%;
+    height: 23px;
+    background: url(../img/imgSkills/img/devider.png) no-repeat center center;
+    margin: 5px 0 10px;
+}
+.counter-up {
+	position: relative;
+	background-color: #171717;
+	padding: 80px 0 50px 0;
+}
+.counter-up .cover {
+	background-color: rgba(0, 7, 11, 0.8);
+}
+.counter-up .fact {
+}
+.counter-up .fact.last {
+	border-right: none;
+}
+.counter-up .fact-inner {
+	padding-bottom: 30px;
+}
+.counter-up .fact-inner .counter {
+	font-size: 60px;
+}
+/* ===== End Counter-Up ===== */
 
-                        <div class="col-md-4 offset-md-right-2 col-sm-6" data-aos="fade-left">
-                            <h4 class="mb-4">Capture every moments and share it to all your friends</h4>
-                            <p>Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna. Cras mattis consectetur purus sit amet.</p>
-                            <div class="progress mb-3">
-                                <div class="progress-bar" role="progressbar" style="width: 95%;" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">HTML5 95%</div>
-                            </div>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">CSS3 90%</div>
-                            </div>
-                        </div><!--/ .col-md-4.col-md-offset-2.col-sm-6 -->
 
-                    </div><!--/ .featurettes-item -->
+/* ===== End progress bar ===== */
 
-                </div><!--/ .col-md-12 -->
+.member-info {
+    display: flex;
+    flex-direction: column;
+    align-items: unset;
+    justify-content: space-around;
+    width: 100%;
+    text-align: center;
+    padding: 4% 4%;
+    margin: 0;
+}
 
-            </div><!--/ .row -->
+.member-info h3{
+    font-size: 15pt;
+}
+
+.member-info p{
+    font-size: 15pt;
+}
+
+.barra-sobre {
+    height: 5px;
+    background-color: #ff9900;
+    text-align: right;
+    color: white;
+    line-height: 2px;
+    transition: width 2s ease-out;
+}
+.estatistica-info{
+    padding: 2% 0%;
+}
+
+
+.estatistica-info span, p{
+    font-size: 15pt;
+}
+
+.social-link .fab {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    background-color: #ff9900;
+    color: #fff;
+    margin: 0 7px;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
+    </style>
+    <link rel="stylesheet" href="{{ asset('css/styleSkills.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/mobile.css') }}">
+    <div class="member-info container-fluid">
+        <h3 style="font-size: 2rem;" class="text-center">Habilidades em Ferramentas Gerais</h3>
+        <p>Ferramentas de desenvolvimento &amp; Design</p>
+        <div style="display: flex; gap:15%; padding:1% 0%;">
+        <div class="estatistica-container">
+            <div class="estatistica-sobre" data-percent="90">
+              <div class="estatistica-info">
+                  <span>HTML</span>
+                  <p class="numero-sobre">90%</p>
+              </div>
+              <div class="progresso-sobre">
+                <div class="barra-sobre" style="width: 81%;"></div>
+              </div>
+            </div>
+            <div class="estatistica-sobre" data-percent="80">
+              <div class="estatistica-info">
+                  <span>CSS</span>
+                  <p class="numero-sobre">80%</p>
+              </div>
+              <div class="progresso-sobre">
+                <div class="barra-sobre" style="width: 64%;"></div>
+              </div>
+            </div>
+            <div class="estatistica-sobre" data-percent="85">
+              <div class="estatistica-info">
+                  <span>JavaScript</span>
+                  <p class="numero-sobre">85%</p>
+              </div>
+              <div class="progresso-sobre">
+                <div class="barra-sobre" style="width: 72.25%;"></div>
+              </div>
+            </div>
+            <div class="estatistica-sobre" data-percent="85">
+                <div class="estatistica-info">
+                    <span>PHP</span>
+                    <p class="numero-sobre">85%</p>
+                </div>
+                <div class="progresso-sobre">
+                  <div class="barra-sobre" style="width: 72.25%;"></div>
+                </div>
+              </div>
+          </div>
+          <div class="estatistica-container">
+            <div class="estatistica-sobre" data-percent="70">
+              <div class="estatistica-info">
+                  <span>Adobe Photoshop</span>
+                  <p class="numero-sobre">70%</p>
+              </div>
+              <div class="progresso-sobre">
+                <div class="barra-sobre" style="width: 71%;"></div>
+              </div>
+            </div>
+            <div class="estatistica-sobre" data-percent="60">
+              <div class="estatistica-info">
+                  <span>React JS</span>
+                  <p class="numero-sobre">60%</p>
+              </div>
+              <div class="progresso-sobre">
+                <div class="barra-sobre" style="width: 64%;"></div>
+              </div>
+            </div>
+            <div class="estatistica-sobre" data-percent="75">
+              <div class="estatistica-info">
+                  <span>Node JS</span>
+                  <p class="numero-sobre">75%</p>
+              </div>
+              <div class="progresso-sobre">
+                <div class="barra-sobre" style="width: 75.25%;"></div>
+              </div>
+            </div>
+            <div class="estatistica-sobre" data-percent="85">
+                <div class="estatistica-info">
+                    <span>Laravel</span>
+                    <p class="numero-sobre">85%</p>
+                </div>
+                <div class="progresso-sobre">
+                  <div class="barra-sobre" style="width: 82.25%;"></div>
+                </div>
+              </div>
+          </div>
         </div>
+
+        <div style="margin-top: 2%;" class="social-link">
+            <h3 style="font-size: 1rem;margin-bottom:1%;" class="text-center">Redes Sociais da Empresa</h3>
+            <i class="fab fa-github"></i>
+            <i class="fab fa-linkedin-in"></i>
+        </div>
+      </div>
+
+
+    <div class="">
+        <section id="counter-section">
+            <div id="counter-up-trigger" class="counter-up text-white parallax" data-stellar-background-ratio="0.5" style="background-image: url(&quot;img/imgSkills/img/counter-bg.jpg&quot;); background-position: 0px 199.961px;">
+                <div class="cover"></div>
+                <!-- Begin page header-->
+                <div class="page-header-wrapper">
+                    <div class="container">
+                        <div class="col-md-12 page-header text-center wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;">
+                            <h2>Veja nossos feitos</h2>
+                            <div class="devider"></div>
+                            <p class="subtitle">Descubra sobre nossa empresa</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- End page header-->
+                <div class="container">
+
+                    <div class="row">
+
+                        <div class="fact text-center col-md-3 col-sm-6">
+                            <div class="fact-inner">
+                                <i class="fa fa-users fa-3x"></i>
+                                <div class="extra-space-l"></div>
+                                <span class="counter">6666</span>
+                                <p class="lead">Clients Worked With</p>
+                            </div>
+                        </div>
+
+                        <div class="fact text-center col-md-3 col-sm-6">
+                            <div class="fact-inner">
+                                <i class="fa fa-leaf fa-3x"></i>
+                                <div class="extra-space-l"></div>
+                                <span class="counter">800</span>
+                                <p class="lead">Completed Projects</p>
+                            </div>
+                        </div>
+
+                        <div class="fact text-center col-md-3 col-sm-6">
+                            <div class="fact-inner">
+                                <i class="fa fa-trophy fa-3x"></i>
+                                <div class="extra-space-l"></div>
+                                <span class="counter">55</span>
+                                <p class="lead">Winning Awards</p>
+                            </div>
+                        </div>
+
+                        <div class="fact last text-center col-md-3 col-sm-6">
+                            <div class="fact-inner">
+                                <i class="fa fa-coffee fa-3x"></i>
+                                <div class="extra-space-l"></div>
+                                <span class="counter">1100</span>
+                                <p class="lead">Cups of coffee drinking</p>
+                            </div>
+                        </div>
+
+                    </div> <!-- /.row -->
+                </div> <!-- /.container -->
+            </div>
+        </section>
     </div><!--/ .container -->
 
 </section>	<!-- Testimonial Section-->
