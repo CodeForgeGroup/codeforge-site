@@ -18,10 +18,9 @@ SOBRE
           <div class="caption  header-text">
             <h6>QUEM SOMOS?</h6>
             <div class="line-dec"></div>
-            <h4><em>Sobre nós</em></h4>
             <p>
               Code Forge é uma agência de desenvolvimento web que cria
-              sites institucionais e e-commerce. Fundada em 2023, por alunos da
+              sites institucionais e e-commerce. Fundada em 2024, por alunos da
               instituição de ensino SENAC, a agência se dedica a fornecer soluções
               de alta qualidade para empresas de diversos segmentos, sempre com um
               olhar atento às tendências e necessidades do mercado.
@@ -31,7 +30,7 @@ SOBRE
           </div>
         </div>
         <div class="col-lg-5 align-self-center">
-          <img src="img/about-us-image.jpg" alt="">
+          <img class="about-img" src="img/about-bg.png" alt="">
         </div>
       </div>
     </div>
@@ -42,7 +41,7 @@ SOBRE
       <div class="row">
         <div class="col-lg-6">
           <div class="video-thumb">
-            <img src="img/video-thumb.jpg" alt="">
+            <img src="img/video-about-bg.png" alt="">
             <a href="http://youtube.com" target="_blank"><i class="fa fa-play"></i></a>
           </div>
         </div>
@@ -118,7 +117,7 @@ SOBRE
 
                           </div>
                           <div class="col-lg-5 align-self-center">
-                            <img src="img/happyclient-01.jpg" alt="">
+                            <img src="img/planejamento-sobre.png" alt="">
                           </div>
                         </div>
                       </div>
@@ -142,7 +141,7 @@ SOBRE
                             </div>
                           </div>
                           <div class="col-lg-5 align-self-center">
-                            <img src="img/happyclient-01.jpg" alt="">
+                            <img src="img/design-sobre.png" alt="">
                           </div>
                         </div>
                       </div>
@@ -167,7 +166,7 @@ SOBRE
                             </div>
                           </div>
                           <div class="col-lg-5 align-self-center">
-                            <img src="img/happyclient-01.jpg" alt="">
+                            <img src="img/testes-sobre.png" alt="">
                           </div>
                         </div>
                       </div>
@@ -191,7 +190,7 @@ SOBRE
                             </div>
                           </div>
                           <div class="col-lg-5 align-self-center">
-                            <img src="img/happyclient-01.jpg" alt="">
+                            <img src="img/suporte-sobre.png" alt="">
                           </div>
                         </div>
                       </div>
