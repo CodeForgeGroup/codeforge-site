@@ -120,24 +120,6 @@ SERVIÇO
     </div>
   </div>
 
-<!-- SESSÃO FAQ -->
-<div class="page-heading">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-7 align-self-center">
-        <div class="caption  header-text">
-          <h6>CODE FORGE</h6>
-          <div class="line-dec"></div>
-        <h4>Quais São As <span>Perguntas</span> Mais<em> Frequentes</em><em>?</em></h4>
-        </div>
-      </div>
-      <div class="col-lg-5">
-        <img src="img/faqs-image.jpg" alt="">
-      </div>
-    </div>
-  </div>
-</div>
-
 <div class="happy-steps">
   <div class="container">
     <div class="row">
