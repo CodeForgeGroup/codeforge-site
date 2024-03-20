@@ -34,7 +34,7 @@ SERVIÇO
                 <div class="icon">
                   <img src="img/services-01.jpg" alt="discover SEO" class="templatemo-feature">
                 </div>
-                <h4>Soluções SEO Personalizadas</h4>
+                <h4>Soluções SEO</h4>
                 <p>
                   Potencialize sua visibilidade online com nossa expertise em SEO.
                 </p>
@@ -64,7 +64,7 @@ SERVIÇO
                 </div>
                 <h4>Marketing Digital</h4>
                 <p>
-                  Impulsione sua marca online com nosso marketing digital estratégico e eficaz.
+                  Impulsione sua marca online com nosso marketing digital estratégico.
                 </p>
                 <div class="second-button d-flex justify-content-end">
                   <a href="{{ url('/contato') }}">Contato</a>
@@ -119,24 +119,6 @@ SERVIÇO
       </div>
     </div>
   </div>
-
-<!-- SESSÃO FAQ -->
-<div class="page-heading">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-7 align-self-center">
-        <div class="caption  header-text">
-          <h6>CODE FORGE</h6>
-          <div class="line-dec"></div>
-        <h4>Quais São As <span>Perguntas</span> Mais<em> Frequentes</em><em>?</em></h4>
-        </div>
-      </div>
-      <div class="col-lg-5">
-        <img src="img/faqs-image.jpg" alt="">
-      </div>
-    </div>
-  </div>
-</div>
 
 <div class="happy-steps">
   <div class="container">
