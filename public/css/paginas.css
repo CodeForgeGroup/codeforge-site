@@ -6,9 +6,6 @@
 }
 body{
     overflow: hidden;
-    /* font-family: "Play", sans-serif!important;
-    font-weight: 400;
-    font-style: normal; */
 }
 
 
@@ -51,7 +48,6 @@ header, nav, section, article, aside, footer, hgroup {
 }
 
 html, body {
-  font-family: 'Open Sans', sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -89,7 +85,7 @@ Global Styles
 */
 html,
 body {
-  font-family: 'Open Sans', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 ::selection {
@@ -2035,6 +2031,127 @@ body {
     transition: width 2s ease-out; /* Transição do número mais lenta */
 }
 
+/*---------------------
+  Página Contato
+-----------------------*/
+.contact-widget {
+    padding-top: 70px;
+  }
+
+  .contact__widget__item {
+    margin-bottom: 30px;
+  }
+
+  .contact__widget__item__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 66px;
+    width: 66px;
+    border: 1px solid rgba(225, 225, 225, 0.5);
+    line-height: 80px;
+    text-align: center;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+  }
+
+  .contact__widget__item__text {
+    overflow: hidden;
+    padding-top: 7px;
+  }
+  .contact__widget__item__text h4 {
+    font-size: 22px;
+    color: #c4640b;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  .contact__widget__item__text p {
+    margin-bottom: 0;
+  }
+
+  .contact {
+    padding: 50px;
+    overflow: hidden;
+  }
+
+  .contact__map {
+    height: 450px;
+  }
+  .contact__map iframe {
+    width: 100%;
+  }
+
+  .contact__form h3 {
+    color: #c4640b;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+  }
+  .contact__form form input {
+    height: 50px;
+    width: 100%;
+    border: 1px solid rgba(225, 225, 225, 0.5);
+    background: rgba(225, 225, 225, 0.5);
+    font-size: 16px;
+    color: #adadad;
+    padding-left: 20px;
+    font-weight: 300;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    -webkit-transition: all, 0.3s;
+    -o-transition: all, 0.3s;
+    transition: all, 0.3s;
+  }
+  .contact__form form input:placeholder {
+    color: #adadad;
+  }
+  .contact__form form input:focus,
+  .contact__form form textarea:focus {
+    border-color: #e1e1e1;
+    outline: none;
+  }
+  .contact__form form textarea {
+    height: 110px;
+    width: 100%;
+    border: 1px solid rgba(225, 225, 225, 0.5);
+    background: rgba(225, 225, 225, 0.5);
+    font-size: 16px;
+    color: #adadad;
+    padding-top: 12px;
+    padding-left: 20px;
+    font-weight: 300;
+    margin-bottom: 14px;
+    resize: none;
+    -webkit-transition: all, 0.3s;
+    -o-transition: all, 0.3s;
+    transition: all, 0.3s;
+  }
+  .contact__form form textarea:placeholder {
+    color: #adadad;
+  }
+  .contact__form form textarea:focus {
+    border-color: #e1e1e1;
+  }
+
+
+.contact-btn {
+    font-size: 15px;
+    color: #ffffff;
+    background: #ff9900;
+    font-weight: 700;
+    border: none;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 14px 34px 12px;
+    width: 100%;
+    cursor: pointer;
+  }
+
+
+
+
 /* Merubah posisi member-image dengan member-info */
 @media screen and (min-width: 771px) {
     .member:nth-child(4n + 3) .member-info,
@@ -2093,4 +2210,7 @@ body {
         right: auto;
         transform: translateY(-50%) rotateZ(180deg);
     }
+    .contact__map {
+        margin-bottom: 40px;
+      }
 }
