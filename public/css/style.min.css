@@ -42,7 +42,7 @@ button:focus {
 .btn:hover,
 a:hover {
   text-decoration: none;
-  color: #333399; }
+  color: #ff9900; }
 
 img {
   max-width: 100%; }
@@ -207,8 +207,8 @@ section {
   background-image: none;
   border-color: #fff; }
   .btn-outline-primary:hover {
-    background-color: #333399;
-    border-color: #333399;
+    background-color: #ff9900;
+    border-color: #ff9900;
     color: #fff; }
 
 .btn-shadow {
@@ -420,10 +420,7 @@ section {
   .feature-item:hover {
     transform: translateY(-13px); }
 
-.progress-bar {
-  background-color: gainsboro;
-  color: black;
- }
+
 
 /*=====  End of FEATURES  ======*/
 /*=============================
@@ -637,8 +634,7 @@ section {
   .skill-item .text-muted {
     color: #939393; }
 
-.progress-bar, .progress {
-  transition: all 4s; }
+
 
 /*=====  End of SKILLS  ======*/
 /*============================
@@ -715,7 +711,7 @@ section {
 =            FORM CONTROL            =
 ====================================*/
 .form-control:focus {
-  border-color: #ff00cc;
+  border-color: #ff9900;
   box-shadow: 0 0 0 0.2rem rgba(253, 101, 90, 0.25); }
 
 .form-control::-webkit-input-placeholder {
@@ -764,7 +760,7 @@ section {
     padding-top: 15px !important;
     padding-bottom: 15px !important; }
   .navbar-transparent .navbar-collapse {
-    background: #ff00cc;
+    background: #ff9900;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #333399, #ff00cc);
     /* Chrome 10-25, Safari 5.1-6 */
@@ -777,8 +773,6 @@ section {
     font-size: 6rem; }
   .grid-item {
     width: 100%; }
-  .progress {
-    height: 30px;
-    font-size: 16px; } }
+  }
 
 /*=====  End of RESPONSIVE  ======*/
