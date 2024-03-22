@@ -8,76 +8,158 @@ PROJETOS
 
 @section('conteudo')
 
-<section class="portfolio spad">
+
+
+<section id="portfolio" class="bg-white">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <ul class="portfolio__filter">
-                    <li class="active" data-filter="*">Todos</li>
-                    <li data-filter=".branding">Sites</li>
-                    <li data-filter=".digital-marketing">Aplicativos</li>
-                </ul>
+        <div class="section-content">
+            <!-- Section Title -->
+            <div class="title-wrap d-flex flex-column">
+                    <h2 class="section-title title-projects">Projetos desenvolvidos  / <em>Code Forge</em></h2>
+                <p class="section-sub-title">Explore uma variedade de projetos desenvolvidos pela <em>Code Forge</em></p>
             </div>
-        </div>
-        <div class="row portfolio__gallery">
-            <div class="col-lg-4 col-md-6 col-sm-6 mix branding">
-                <div class="portfolio__item">
-                    <div class="portfolio__item__video set-bg" data-setbg="img/portfolio/portfolio-1.jpg">
-                        <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
-                                class="fa fa-play"></i></a>
+            <div class="row">
+                <!-- Portfolio Holder -->
+                <div class="col-md-12 portfolio-holder mt-3">
+                    <!-- Btn Filter -->
+                    <div class="filter-button-group btn-filter d-flex justify-content-center">
+                        <a onclick="ativarFiltro(this)" tabindex="0" class="is-checked" data-filter="*">Todos</a>
+                        <a onclick="ativarFiltro(this)" tabindex="0" data-filter=".sites">Sites</a>
+                        <a onclick="ativarFiltro(this)" tabindex="0" data-filter=".aplicativos">Aplicativos</a>
                     </div>
-                    <div class="portfolio__item__text">
-                        <h4>Code Forge</h4>
-                        <ul>
-                            <li>Site</li>
-                            <li>Agência</li>
-                        </ul>
+
+                    <!-- Portfolio Content -->
+                    <div class="grid-portfolio">
+                        <div class="grid-sizer"></div>
+                        <div class="gutter-sizer"></div>
+                        <!-- Portfolio Item -->
+                        <div class="grid-item sites" data-aos="fade-up">
+                            <div class="grid-item-wrapper">
+                                <img src="img/projetos/headerRoyal.png" alt="portfolio-img" class="portfolio-item">
+                                <div class="grid-info">
+                                    <div class="grid-link d-flex justify-content-center">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/headerRoyal.png" title="Site da Code Forge">
+                                            <span class="lnr lnr-move"></span>
+                                        </a>
+                                        <a class="ext-link" href="https://unsplash.com/" target="_blank">
+                                            <span class="lnr lnr-link"></span>
+                                        </a>
+                                    </div>
+                                    <div class="grid-title">
+                                        <h4>Code Forge</h4>
+                                        <p style="color: black;">Site / Agência</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!-- Portfolio Item -->
+                        <div class="grid-item sites" data-aos="fade-up">
+                            <div class="grid-item-wrapper">
+                                <img src="img/projetos/headerRoyal.png" alt="portfolio-img" class="portfolio-item">
+                                <div class="grid-info">
+                                    <div class="grid-link d-flex justify-content-center">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/headerRoyal.png" title="Site da Royal Barber">
+                                            <span class="lnr lnr-move"></span>
+                                        </a>
+                                        <a class="ext-link" href="https://unsplash.com/" target="_blank">
+                                            <span class="lnr lnr-link"></span>
+                                        </a>
+                                    </div>
+                                    <div class="grid-title">
+                                        <h4>Royal Barber</h4>
+                                        <p style="color: black;">Site / Barbearia</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!-- Portfolio Item -->
+                        <div class="grid-item sites grid-item-height" data-aos="fade-up">
+                            <div class="grid-item-wrapper">
+                                <img src="img/projetos/headerRoyal.png" alt="portfolio-img" class="portfolio-item">
+                                <div class="grid-info">
+                                    <div class="grid-link d-flex justify-content-center">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/headerRoyal.png" title="Site da Radar Imóveis">
+                                            <span class="lnr lnr-move"></span>
+                                        </a>
+                                        <a class="ext-link" href="https://unsplash.com/" target="_blank">
+                                            <span class="lnr lnr-link"></span>
+                                        </a>
+                                    </div>
+                                    <div class="grid-title">
+                                        <h4>Radar Imóveis</h4>
+                                        <p style="color: black;">Site / Corretora</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!-- Portfolio Item -->
+                        <div class="grid-item aplicativos grid-item-height" data-aos="fade-up">
+                            <div class="grid-item-wrapper">
+                                <img src="img/projetos/headerRoyal.png" alt="portfolio-img" class="portfolio-item">
+                                <div class="grid-info">
+                                    <div class="grid-link d-flex justify-content-center">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/headerRoyal.png" title="Aplicativo da Radar Imóveis">
+                                            <span class="lnr lnr-move"></span>
+                                        </a>
+                                        <a class="ext-link" href="https://unsplash.com/" target="_blank">
+                                            <span class="lnr lnr-link"></span>
+                                        </a>
+                                    </div>
+                                    <div class="grid-title">
+                                        <h4>Radar Imóveis</h4>
+                                        <p style="color: black;">Aplicativo / Corretora</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!-- Portfolio Item -->
+                        <div class="grid-item aplicativos grid-item-height" data-aos="fade-up">
+                            <div class="grid-item-wrapper">
+                                <img src="img/projetos/headerRoyal.png" alt="portfolio-img" class="portfolio-item">
+                                <div class="grid-info">
+                                    <div class="grid-link d-flex justify-content-center">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/headerRoyal.png" title="Aplicativo da Royal Barber">
+                                            <span class="lnr lnr-move"></span>
+                                        </a>
+                                        <a class="ext-link" href="https://unsplash.com/" target="_blank">
+                                            <span class="lnr lnr-link"></span>
+                                        </a>
+                                    </div>
+                                    <div class="grid-title">
+                                        <h4>Royal Barber</h4>
+                                        <p style="color: black;">Aplicativo / Barbearia</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
                     </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6 mix digital-marketing">
-                <div class="portfolio__item">
-                    <div class="portfolio__item__video set-bg" data-setbg="img/portfolio/portfolio-2.jpg">
-                        <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
-                                class="fa fa-play"></i></a>
-                    </div>
-                    <div class="portfolio__item__text">
-                        <h4>Royal Barber</h4>
-                        <ul>
-                            <li>Site</li>
-                            <li>Barbearia</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6 mix web">
-                <div class="portfolio__item">
-                    <div class="portfolio__item__video set-bg" data-setbg="img/portfolio/portfolio-3.jpg">
-                        <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="play-btn video-popup"><i
-                                class="fa fa-play"></i></a>
-                    </div>
-                    <div class="portfolio__item__text">
-                        <h4>??</h4>
-                        <ul>
-                            <li>Site</li>
-                            <li>Corretora</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="pagination__option">
-                    <a href="#" class="arrow__pagination left__arrow"><span class="arrow_left"></span> Próximo</a>
-                    <a href="#" class="number__pagination">1</a>
-                    <a href="#" class="number__pagination">2</a>
-                    <a href="#" class="arrow__pagination right__arrow">Anterior <span class="arrow_right"></span></a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
 @endsection
 
+
+<script>
+
+function ativarFiltro(element){
+
+    var buttons = document.querySelectorAll('.btn-filter a');
+    buttons.forEach(function(btn) {
+        btn.classList.remove('is-checked');
+    });
+
+    element.classList.add('is-checked');
+}
+</script>
