@@ -38,7 +38,7 @@ PROJETOS
                                 <img src="img/projetos/headerRoyal.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/headerRoyal.png" title="Site da Code Forge">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/headerRoyal.png" title="Royal Barber">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="#" target="_blank">
@@ -60,7 +60,7 @@ PROJETOS
                                 <img src="img/projetos/355web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/355web.png" title="Aplicativo da Royal Barber">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/355web.png" title="Dental Care">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="https://github.com/GustaSoier/Clinica-Dentista" target="_blank">
@@ -82,7 +82,7 @@ PROJETOS
                                 <img src="img/projetos/web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/web.png" title="Site da Radar Imóveis">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/web.png" title="Web de Quebrada">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="https://webdequebrada.smpsistema.com.br/" target="_blank">
@@ -104,7 +104,7 @@ PROJETOS
                                 <img src="img/projetos/532web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/532web.png" title="Aplicativo da Radar Imóveis">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/532web.png" title="Portfólio">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="#" target="_blank">
@@ -126,7 +126,7 @@ PROJETOS
                                 <img src="img/projetos/leflower.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/leflower.png" title="Aplicativo da Royal Barber">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/leflower.png" title="Le Flower">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="https://ascensaodev.smpsistema.com.br/leflowersite/" target="_blank">
@@ -148,7 +148,7 @@ PROJETOS
                                 <img src="img/projetos/obras.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/obras.png" title="Site da Royal Barber">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/obras.png" title="WR Obras">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="https://cybercompany.smpsistema.com.br/wrobras/" target="_blank">

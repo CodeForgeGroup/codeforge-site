@@ -5,6 +5,12 @@ CONTATO
 @endsection
 
 @section('title', 'Contato')
+<!-- SweetAlert -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+<!-- EmailJS -->
+<script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+<script src="./js/email.js"></script>
+<!-- CSS -->
 <link rel="stylesheet" href="css/paginas.css">
 @section('conteudo')
 
@@ -62,18 +68,17 @@ CONTATO
             <div class="col-lg-6 col-md-6">
                 <div class="contact__form">
                     <h3>Contato</h3>
-                    <form action="#">
-                        <input type="text" placeholder="Nome:">
-                        <input type="text" placeholder="Email:">
-                        <input type="text" placeholder="Número:">
-                        <textarea placeholder="Deixe sua mensagem:"></textarea>
-                        <button type="submit" class="contact-btn">Enviar</button>
+                    <form id="form-contato" onsubmit="return false">
+                        <input type="text" id="nome" name="nome" placeholder="Nome:">
+                        <input type="text" id="email" name="email" placeholder="Email:">
+                        <input type="text" id="numero" name="numero" placeholder="Número:">
+                        <textarea id="mensagem" name="mensagem" placeholder="Deixe sua mensagem:"></textarea>
+                        <button type="submit" onclick="enviarEmail()" class="contact-btn">Enviar</button>
                     </form>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
 
 @endsection
