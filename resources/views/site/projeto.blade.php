@@ -16,7 +16,7 @@ PROJETOS
             <!-- Section Title -->
             <div class="title-wrap d-flex flex-column">
                     <h2 class="section-title title-projects">Projetos desenvolvidos  / <em>Code Forge</em></h2>
-                <p class="section-sub-title">Explore uma variedade de projetos desenvolvidos pela <em>Code Forge</em></p>
+                    <p class="section-sub-title">Explore de projetos desenvolvidos pela <em>Code Forge</em></p>
             </div>
             <div class="row">
                 <!-- Portfolio Holder -->
@@ -41,29 +41,7 @@ PROJETOS
                                         <a class="img-pop" data-rel="lightcase" href="img/projetos/headerRoyal.png" title="Site da Code Forge">
                                             <span class="lnr lnr-move"></span>
                                         </a>
-                                        <a class="ext-link" href="https://unsplash.com/" target="_blank">
-                                            <span class="lnr lnr-link"></span>
-                                        </a>
-                                    </div>
-                                    <div class="grid-title">
-                                        <h4>Code Forge</h4>
-                                        <p style="color: black;">Site / Agência</p>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <!-- Portfolio Item -->
-                        <div class="grid-item sites" data-aos="fade-up">
-                            <div class="grid-item-wrapper">
-                                <img src="img/projetos/headerRoyal.png" alt="portfolio-img" class="portfolio-item">
-                                <div class="grid-info">
-                                    <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/headerRoyal.png" title="Site da Royal Barber">
-                                            <span class="lnr lnr-move"></span>
-                                        </a>
-                                        <a class="ext-link" href="https://unsplash.com/" target="_blank">
+                                        <a class="ext-link" href="#" target="_blank">
                                             <span class="lnr lnr-link"></span>
                                         </a>
                                     </div>
@@ -79,19 +57,19 @@ PROJETOS
                         <!-- Portfolio Item -->
                         <div class="grid-item sites grid-item-height" data-aos="fade-up">
                             <div class="grid-item-wrapper">
-                                <img src="img/projetos/headerRoyal.png" alt="portfolio-img" class="portfolio-item">
+                                <img src="img/projetos/355web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/headerRoyal.png" title="Site da Radar Imóveis">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/355web.png" title="Aplicativo da Royal Barber">
                                             <span class="lnr lnr-move"></span>
                                         </a>
-                                        <a class="ext-link" href="https://unsplash.com/" target="_blank">
+                                        <a class="ext-link" href="https://github.com/GustaSoier/Clinica-Dentista" target="_blank">
                                             <span class="lnr lnr-link"></span>
                                         </a>
                                     </div>
                                     <div class="grid-title">
-                                        <h4>Radar Imóveis</h4>
-                                        <p style="color: black;">Site / Corretora</p>
+                                        <h4>Dental Care</h4>
+                                        <p style="color: black;">Site / Dentista</p>
                                     </div>
                                 </div>
 
@@ -99,21 +77,21 @@ PROJETOS
                         </div>
 
                         <!-- Portfolio Item -->
-                        <div class="grid-item aplicativos grid-item-height" data-aos="fade-up">
+                        <div class="grid-item sites grid-item-height" data-aos="fade-up">
                             <div class="grid-item-wrapper">
-                                <img src="img/projetos/headerRoyal.png" alt="portfolio-img" class="portfolio-item">
+                                <img src="img/projetos/web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/headerRoyal.png" title="Aplicativo da Radar Imóveis">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/web.png" title="Site da Radar Imóveis">
                                             <span class="lnr lnr-move"></span>
                                         </a>
-                                        <a class="ext-link" href="https://unsplash.com/" target="_blank">
+                                        <a class="ext-link" href="https://webdequebrada.smpsistema.com.br/" target="_blank">
                                             <span class="lnr lnr-link"></span>
                                         </a>
                                     </div>
                                     <div class="grid-title">
-                                        <h4>Radar Imóveis</h4>
-                                        <p style="color: black;">Aplicativo / Corretora</p>
+                                        <h4>Web de Quebrada</h4>
+                                        <p style="color: black;">Site / Agência</p>
                                     </div>
                                 </div>
 
@@ -121,26 +99,71 @@ PROJETOS
                         </div>
 
                         <!-- Portfolio Item -->
-                        <div class="grid-item aplicativos grid-item-height" data-aos="fade-up">
+                        <div class="grid-item sites grid-item-height" data-aos="fade-up">
                             <div class="grid-item-wrapper">
-                                <img src="img/projetos/headerRoyal.png" alt="portfolio-img" class="portfolio-item">
+                                <img src="img/projetos/532web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/headerRoyal.png" title="Aplicativo da Royal Barber">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/532web.png" title="Aplicativo da Radar Imóveis">
                                             <span class="lnr lnr-move"></span>
                                         </a>
-                                        <a class="ext-link" href="https://unsplash.com/" target="_blank">
+                                        <a class="ext-link" href="#" target="_blank">
                                             <span class="lnr lnr-link"></span>
                                         </a>
                                     </div>
                                     <div class="grid-title">
-                                        <h4>Royal Barber</h4>
-                                        <p style="color: black;">Aplicativo / Barbearia</p>
+                                        <h4>Site Portfólio</h4>
+                                        <p style="color: black;">Site / Portfólio</p>
                                     </div>
                                 </div>
 
                             </div>
                         </div>
+
+                        <!-- Portfolio Item -->
+                        <div class="grid-item sites grid-item-height" data-aos="fade-up">
+                            <div class="grid-item-wrapper">
+                                <img src="img/projetos/leflower.png" alt="portfolio-img" class="portfolio-item">
+                                <div class="grid-info">
+                                    <div class="grid-link d-flex justify-content-center">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/leflower.png" title="Aplicativo da Royal Barber">
+                                            <span class="lnr lnr-move"></span>
+                                        </a>
+                                        <a class="ext-link" href="https://ascensaodev.smpsistema.com.br/leflowersite/" target="_blank">
+                                            <span class="lnr lnr-link"></span>
+                                        </a>
+                                    </div>
+                                    <div class="grid-title">
+                                        <h4>Le Flower</h4>
+                                        <p style="color: black;">Site / Salão de Beleza</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!-- Portfolio Item -->
+                        <div class="grid-item sites" data-aos="fade-up">
+                            <div class="grid-item-wrapper">
+                                <img src="img/projetos/obras.png" alt="portfolio-img" class="portfolio-item">
+                                <div class="grid-info">
+                                    <div class="grid-link d-flex justify-content-center">
+                                        <a class="img-pop" data-rel="lightcase" href="img/projetos/obras.png" title="Site da Royal Barber">
+                                            <span class="lnr lnr-move"></span>
+                                        </a>
+                                        <a class="ext-link" href="https://cybercompany.smpsistema.com.br/wrobras/" target="_blank">
+                                            <span class="lnr lnr-link"></span>
+                                        </a>
+                                    </div>
+                                    <div class="grid-title">
+                                        <h4>WR Obras</h4>
+                                        <p style="color: black;">Site / Obras e reformas</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
 
                     </div>
                 </div>
