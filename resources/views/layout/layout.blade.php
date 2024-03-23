@@ -147,9 +147,9 @@
         <div class="section-content" data-aos="fade-up">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="mb-2">Make a beautiful website, or million of them</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, veritatis qui eligendi delectus quia fuga!</p>
-                    <a class="btn btn-outline-primary btn-lg">FEATURES</a>
+                    <h2 class="mb-2"><b>Code Forge</b> uma nova solução para seu desempenho.</h2>
+                    <p>Prestamos suporte e serviço a todo tempo aos nosssos clientes</p>
+                    <a class="btn btn-outline-primary btn-lg">CONTATO</a>
                 </div>
             </div>
         </div>

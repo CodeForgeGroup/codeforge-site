@@ -326,8 +326,8 @@ FORGE
                             <div class="fact-inner">
                                 <i class="fa fa-users fa-3x"></i>
                                 <div class="extra-space-l"></div>
-                                <span class="counter">6666</span>
-                                <p class="lead">Clients Worked With</p>
+                                <span class="counter">3</span>
+                                <p class="lead">Clientes Presentes</p>
                             </div>
                         </div>
 
@@ -335,8 +335,8 @@ FORGE
                             <div class="fact-inner">
                                 <i class="fa fa-leaf fa-3x"></i>
                                 <div class="extra-space-l"></div>
-                                <span class="counter">800</span>
-                                <p class="lead">Completed Projects</p>
+                                <span class="counter">15</span>
+                                <p class="lead">Projetos Completos</p>
                             </div>
                         </div>
 
@@ -344,17 +344,17 @@ FORGE
                             <div class="fact-inner">
                                 <i class="fa fa-trophy fa-3x"></i>
                                 <div class="extra-space-l"></div>
-                                <span class="counter">55</span>
-                                <p class="lead">Winning Awards</p>
+                                <span class="counter">4</span>
+                                <p class="lead">Avaliações</p>
                             </div>
                         </div>
 
                         <div class="fact last text-center col-md-3 col-sm-6">
                             <div class="fact-inner">
-                                <i class="fa fa-coffee fa-3x"></i>
+                                <i class="fa fa-usd fa-3x"></i>
                                 <div class="extra-space-l"></div>
-                                <span class="counter">1100</span>
-                                <p class="lead">Cups of coffee drinking</p>
+                                <span class="counter">5</span>
+                                <p class="lead">Projetos Vendidos</p>
                             </div>
                         </div>
 
@@ -370,55 +370,56 @@ FORGE
         <div class="section-content" data-aos="fade-up">
             <div class="heading-section text-center">
                 <h2>
-                    User Testimonials
+                    Avaliações
                 </h2>
             </div>
             <div class="row">
-                <!-- Testimonial -->
+                <!-- Depoimentos -->
                 <div class="testi-content testi-carousel owl-carousel">
                     <div class="testi-item text-center">
                         <i class="testi-icon fa fa-3x fa-quote-left"></i>
-                        <h4 class="testi-text"><b>ROXY</b> is best theme i used so far.<br> It’s ideal for guys without coding knowledge like me!</h4>
+                        <h4 class="testi-text"><b>Code Forge</b> é o melhor agência que já contratei até agora.<br> É ideal para pessoas sem conhecimento em programação como eu!</h4>
                         <div class="testi-meta-inner d-flex justify-content-center align-items-center">
                             <div class="testi-img mr-2">
                                 <img src="img/testi-1.jpg" alt="">
                             </div>
                             <div class="testi-details">
-                                <p class="testi-author mb-0 font-weight-bolder">John Doe</p>
-                                <p class="testi-desc mb-0">Web Designer</p>
+                                <p class="testi-author mb-0 font-weight-bolder">João Silva</p>
+                                <p class="testi-desc mb-0">Empresário</p>
                             </div>
                         </div>
 
                     </div>
                     <div class="testi-item text-center">
                         <i class="testi-icon fa fa-3x fa-quote-left"></i>
-                        <h4 class="testi-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci <br> non doloribus ut, alias doloremque perspiciatis.</h4>
+                        <h4 class="testi-text"><b>Code Forge</b> uma agência que trabalha com prazos e entrega.<br> Eu adorei o trabalho e a contribuição da agência em meu projeto, obrigado.</h4>
                         <div class="testi-meta-inner d-flex justify-content-center align-items-center">
                             <div class="testi-img mr-2">
                                 <img src="img/testi-1.jpg" alt="">
                             </div>
                             <div class="testi-details">
-                                <p class="testi-author mb-0 font-weight-bolder">John Doe</p>
-                                <p class="testi-desc mb-0">Web Designer</p>
+                                <p class="testi-author mb-0 font-weight-bolder">Vitor Santos</p>
+                                <p class="testi-desc mb-0">Vendedor</p>
                             </div>
                         </div>
                     </div>
-                     <div class="testi-item text-center">
+                    <div class="testi-item text-center">
                         <i class="testi-icon fa fa-3x fa-quote-left"></i>
-                        <h4 class="testi-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci <br> non doloribus ut, alias doloremque perspiciatis.</h4>
+                        <h4 class="testi-text">Eu agradeço o esforço e a atenção dedicada a mim, sou um cliente muito satisfeito.<br>Espero podermos trabalhar juntos outra vez.</h4>
                         <div class="testi-meta-inner d-flex justify-content-center align-items-center">
                             <div class="testi-img mr-2">
                                 <img src="img/testi-1.jpg" alt="">
                             </div>
                             <div class="testi-details">
-                                <p class="testi-author mb-0 font-weight-bolder">John Doe</p>
-                                <p class="testi-desc mb-0">Web Designer</p>
+                                <p class="testi-author mb-0 font-weight-bolder">Kaua Silva</p>
+                                <p class="testi-desc mb-0">Empresário</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- End of Testimonial -->
+                {{-- Fim de avaliações --}}
             </div>
+
         </div>
     </div>
 </section>
@@ -428,8 +429,8 @@ FORGE
         <div class="section-content">
             <!-- Section Title -->
             <div class="title-wrap">
-                <h2 class="section-title">Our <b>Awesome</b> Works</h2>
-                <p class="section-sub-title">Praesent commodo cursus magna, vel scelerisque nisl consectetur et. <br> pharetra augue. Donec id elit non mi.</p>
+                <h2 class="section-title">Nossos <b>Melhores</b> Trabalhos</h2>
+                <p class="section-sub-title">Aqui você pode saber mais sobre o tipo do nosso trabalho e como trabalhos<br>Projetos que foram feitos e estão no mercado hoje!</p>
             </div>
             <!-- End of Section Title -->
             <div class="row">
@@ -450,10 +451,10 @@ FORGE
                         <!-- Portfolio Item -->
                         <div class="grid-item minimalism" data-aos="fade-up">
                             <div class="grid-item-wrapper">
-                                <img src="img/photo-1.jpg" alt="portfolio-img" class="portfolio-item">
+                                <img src="img/Projetos/web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/photo-1.jpg" title="Photo-1">
+                                        <a class="img-pop" data-rel="lightcase" href="img/Projetos/web.png" title="Photo-1">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="https://unsplash.com/" target="_blank">
@@ -461,7 +462,7 @@ FORGE
                                         </a>
                                     </div>
                                     <div class="grid-title">
-                                        <h4>Camera</h4>
+                                        <h4>Tablet</h4>
                                     </div>
                                 </div>
 
@@ -471,10 +472,10 @@ FORGE
                         <!-- Portfolio Item -->
                         <div class="grid-item vintage" data-aos="fade-up">
                             <div class="grid-item-wrapper">
-                                <img src="img/photo-6.jpg" alt="portfolio-img" class="portfolio-item">
+                                <img src="img/Projetos/355web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/photo-6.jpg" title="Ship">
+                                        <a class="img-pop" data-rel="lightcase" href="img/Projetos/355web.png" title="Ship">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="https://unsplash.com/" target="_blank">
@@ -482,7 +483,7 @@ FORGE
                                         </a>
                                     </div>
                                     <div class="grid-title">
-                                        <h4>Flower</h4>
+                                        <h4>Computador</h4>
                                     </div>
                                 </div>
 
@@ -492,10 +493,10 @@ FORGE
                         <!-- Portfolio Item -->
                         <div class="grid-item creative grid-item-height" data-aos="fade-up">
                             <div class="grid-item-wrapper">
-                                <img src="img/photo-2.jpg" alt="portfolio-img" class="portfolio-item">
+                                <img src="img/Projetos/532web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
-                                        <a class="img-pop" data-rel="lightcase" href="img/photo-2.jpg" title="Tracy Portrait">
+                                        <a class="img-pop" data-rel="lightcase" href="img/Projetos/532web.png" title="Tracy Portrait">
                                             <span class="lnr lnr-move"></span>
                                         </a>
                                         <a class="ext-link" href="https://unsplash.com/" target="_blank">
@@ -503,7 +504,7 @@ FORGE
                                         </a>
                                     </div>
                                     <div class="grid-title">
-                                        <h4>Breakfast</h4>
+                                        <h4>Mobile</h4>
                                     </div>
                                 </div>
 
@@ -524,7 +525,7 @@ FORGE
                                         </a>
                                     </div>
                                     <div class="grid-title">
-                                        <h4>Chair</h4>
+                                        <h4>Tablet</h4>
                                     </div>
                                 </div>
 
@@ -534,7 +535,7 @@ FORGE
                         <!-- Portfolio Item -->
                         <div class="grid-item vintage" data-aos="fade-up">
                             <div class="grid-item-wrapper">
-                                <img src="img/photo-4.jpg" alt="portfolio-img" class="portfolio-item">
+                                <img src="img/Projetos/leflower.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
                                         <a class="img-pop" data-rel="lightcase" href="img/photo-4.jpg" title="Bookself">
@@ -545,7 +546,7 @@ FORGE
                                         </a>
                                     </div>
                                     <div class="grid-title">
-                                        <h4>Hidden Book</h4>
+                                        <h4>Computador</h4>
                                     </div>
                                 </div>
 
@@ -555,7 +556,7 @@ FORGE
                         <!-- Portfolio Item -->
                         <div class="grid-item creative" data-aos="fade-up">
                             <div class="grid-item-wrapper">
-                                <img src="img/photo-9.jpg" alt="portfolio-img" class="portfolio-item">
+                                <img src="img/Projetos/obras.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
                                     <div class="grid-link d-flex justify-content-center">
                                         <a class="img-pop" data-rel="lightcase" href="img/photo-9.jpg" title="Guitar">
@@ -589,7 +590,7 @@ FORGE
                 <div class="col-md-12">
                     <!-- Section Title -->
                     <div class="title-wrap mb-5">
-                        <h2>Who love to <span> work</span> with us</h2>
+                        <h2>Ferramentais com<span> quais trabalhamos</span></h2>
                     </div>
                     <!-- End of Section Title -->
                 </div>
@@ -597,22 +598,22 @@ FORGE
                 <div class="col-md-12 client-holder">
                     <div class="client-slider owl-carousel">
                         <div class="client-item">
-                            <img class="img-responsive" src="img/client.png" alt=" ">
+                            <img class="img-responsive" src="img/client1.png" alt=" ">
                         </div>
                         <div class="client-item">
-                            <img class="img-responsive" src="img/client.png" alt=" ">
+                            <img class="img-responsive" src="img/laravel.png" alt=" ">
                         </div>
                         <div class="client-item">
-                            <img class="img-responsive" src="img/client.png" alt=" ">
+                            <img class="img-responsive" src="img/javascript.png" alt=" ">
                         </div>
                         <div class="client-item">
-                            <img class="img-responsive" src="img/client.png" alt=" ">
+                            <img class="img-responsive" src="img/html.png" alt=" ">
                         </div>
                         <div class="client-item">
-                            <img class="img-responsive" src="img/client.png" alt=" ">
+                            <img class="img-responsive" src="img/css.png" alt=" ">
                         </div>
                         <div class="client-item">
-                            <img class="img-responsive" src="img/client.png" alt=" ">
+                            <img class="img-responsive" src="img/react.png" alt=" ">
                         </div>
                     </div>
                     <!-- End of Client Holder -->
@@ -628,28 +629,28 @@ FORGE
                 <div class="bg-white p-5 shadow">
                     <div class="heading-section text-center">
                         <h2 class="mb-4">
-                            Contact Us
+                            Contate-nos
                         </h2>
                     </div>
                     <form method="post" name="contact-us" action="">
                         <div class="row">
                             <div class="col-md-12 form-group">
-                                <input type="text" class="form-control" id="name" name="name" placeholder="Name">
+                                <input type="text" class="form-control" id="name" name="name" placeholder="Nome">
                             </div>
                             <div class="col-md-12 form-group">
                                 <input type="text" class="form-control" id="email" name="email" placeholder="Email">
                             </div>
                             <div class="col-md-12 form-group">
-                                <input type="number" class="form-control" id="phoneNumber" name="phoneNumber" placeholder="Phone">
+                                <input type="number" class="form-control" id="phoneNumber" name="phoneNumber" placeholder="Telefone">
                             </div>
                             <div class="col-md-12 form-group">
-                                <input type="text" class="form-control" id="websiteUrl" name="websiteUrl" placeholder="Website">
+                                <input type="text" class="form-control" id="websiteUrl" name="websiteUrl" placeholder="Assunto">
                             </div>
                             <div class="col-md-12 form-group">
-                                <textarea class="form-control" id="message" name="message" rows="6" placeholder="Your Message ..."></textarea>
+                                <textarea class="form-control" id="message" name="message" rows="6" placeholder="Sua mensagem ..."></textarea>
                             </div>
                             <div class="col-md-12 text-center">
-                                <button class="btn btn-primary btn-shadow btn-lg" type="submit" name="submit">Send Message</button>
+                                <button class="btn btn-primary btn-shadow btn-lg" type="submit" name="submit">SOLICITAR</button>
                             </div>
                         </div>
                     </form>
@@ -657,30 +658,31 @@ FORGE
             </div>
             <div class="col-lg-4 offset-lg-1" data-aos="fade-left">
                 <h2 class="mb-4">
-                    Best solution to create any website. Pay once.
+                    Melhor solução para criar qualquer website. Pague uma vez.
                 </h2>
-                <p class="mb-4">I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                <p class="mb-4">Comece hoje sua nova solução para sua empresa, para que possa alavancar suas vendas e serviços.</p>
 
                 <ul class="list-inline py-2">
                     <li class="list-inline-item text-center">
                         <span class="lnr fs-40 lnr-rocket"></span>
-                        <p>Fast delivery</p>
+                        <p>Entrega rápida</p>
                     </li>
                     <li class="list-inline-item text-center">
                         <span class="lnr fs-40 lnr-magic-wand"></span>
-                        <p>Awesome design</p>
+                        <p>Design incrível</p>
                     </li>
                     <li class="list-inline-item text-center">
                         <span class="lnr fs-40 lnr-cog"></span>
-                        <p>Easy to customize</p>
+                        <p>Fácil de personalizar</p>
                     </li>
                 </ul>
 
                 <a href="#" class="btn btn-link p-0">
-                    <span>PURCHASE NOW</span>
+                    <span>COMPRE AGORA</span>
                     <span class="lnr lnr-arrow-right"></span>
                 </a>
             </div>
+
         </div>
 
     </div>
