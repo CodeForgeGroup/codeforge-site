@@ -12,9 +12,9 @@ function enviarEmail() {
         var replyTo = email;
 
         emailjs.send("service_mbck9ca", "template_s05mstj", {
-            from_name: nome,
-            from_email: email,
-            from_numero: numero,
+            name: nome,
+            email: email,
+            fone: numero,
             message: mensagem,
             reply_to: replyTo
         }).then(function(response) {
