@@ -632,25 +632,22 @@ FORGE
                             Contate-nos
                         </h2>
                     </div>
-                    <form method="post" name="contact-us" action="">
+                    <form id="form-contato" onsubmit="return false">
                         <div class="row">
                             <div class="col-md-12 form-group">
-                                <input type="text" class="form-control" id="name" name="name" placeholder="Nome">
+                                <input type="text" class="form-control" id="nome" name="nome" placeholder="Nome: ">
                             </div>
                             <div class="col-md-12 form-group">
-                                <input type="text" class="form-control" id="email" name="email" placeholder="Email">
+                                <input type="text" class="form-control" id="email" name="email" placeholder="Email: ">
                             </div>
                             <div class="col-md-12 form-group">
-                                <input type="number" class="form-control" id="phoneNumber" name="phoneNumber" placeholder="Telefone">
+                                <input type="text" class="form-control" id="numero" name="numero" placeholder="Número: ">
                             </div>
                             <div class="col-md-12 form-group">
-                                <input type="text" class="form-control" id="websiteUrl" name="websiteUrl" placeholder="Assunto">
-                            </div>
-                            <div class="col-md-12 form-group">
-                                <textarea class="form-control" id="message" name="message" rows="6" placeholder="Sua mensagem ..."></textarea>
+                                <textarea class="form-control" id="mensagem" name="mensagem" rows="6" placeholder="Deixe sua mensagem: "></textarea>
                             </div>
                             <div class="col-md-12 text-center">
-                                <button class="btn btn-primary btn-shadow btn-lg" type="submit" name="submit">SOLICITAR</button>
+                                <button class="btn btn-primary btn-shadow btn-lg" type="submit" name="submit" onclick="enviarEmail()">Enviar</button>
                             </div>
                         </div>
                     </form>
