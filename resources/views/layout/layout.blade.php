@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 
 <head>
     <!--
@@ -12,7 +12,14 @@
     <meta name="description" content="Roxy">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <!-- favicon -->
+    <link rel="shortcut icon" href="img/favicon/favicon.png" type="image/x-icon">
 
+    <!-- SweetAlert -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <!-- EmailJS -->
+    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+    <script src="./js/email.js"></script>
 
     <!-- External CSS -->
     <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
@@ -46,7 +53,7 @@
 	<nav id="header-navbar" class="navbar navbar-expand-lg py-4">
     <div class="container">
         <a class="navbar-brand d-flex align-items-center text-white" href="/">
-            <h3 style="width:30%;" class="font-weight-bolder mb-0"><img src="{{ asset('img/logoSombra.png') }}" alt=""></h3>
+            <h3 style="width:30%;" class="font-weight-bolder mb-0"><img src="{{ asset('img/logo/logoCF.svg') }}" alt=""></h3>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-nav-header" aria-controls="navbar-nav-header" aria-expanded="false" aria-label="Toggle navigation">
             <span class="lnr lnr-menu"></span>
@@ -54,7 +61,7 @@
         <div class="collapse navbar-collapse" id="navbar-nav-header">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="/">Home</a>
+                    <a class="nav-link" href="/">Início</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/sobre">Sobre</a>
