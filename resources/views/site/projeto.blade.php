@@ -33,7 +33,7 @@ PROJETOS
                         <div class="grid-sizer"></div>
                         <div class="gutter-sizer"></div>
                         <!-- Portfolio Item -->
-                        <div class="grid-item sites" data-aos="fade-up">
+                        <div class="grid-item sites">
                             <div class="grid-item-wrapper">
                                 <img src="img/projetos/headerRoyal.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
@@ -55,7 +55,7 @@ PROJETOS
                         </div>
 
                         <!-- Portfolio Item -->
-                        <div class="grid-item sites grid-item-height" data-aos="fade-up">
+                        <div class="grid-item sites grid-item-height">
                             <div class="grid-item-wrapper">
                                 <img src="img/projetos/355web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
@@ -77,7 +77,7 @@ PROJETOS
                         </div>
 
                         <!-- Portfolio Item -->
-                        <div class="grid-item sites grid-item-height" data-aos="fade-up">
+                        <div class="grid-item sites grid-item-height">
                             <div class="grid-item-wrapper">
                                 <img src="img/projetos/web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
@@ -99,7 +99,7 @@ PROJETOS
                         </div>
 
                         <!-- Portfolio Item -->
-                        <div class="grid-item sites grid-item-height" data-aos="fade-up">
+                        <div class="grid-item sites grid-item-height">
                             <div class="grid-item-wrapper">
                                 <img src="img/projetos/532web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
@@ -121,7 +121,7 @@ PROJETOS
                         </div>
 
                         <!-- Portfolio Item -->
-                        <div class="grid-item sites grid-item-height" data-aos="fade-up">
+                        <div class="grid-item sites grid-item-height">
                             <div class="grid-item-wrapper">
                                 <img src="img/projetos/leflower.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
@@ -143,7 +143,7 @@ PROJETOS
                         </div>
 
                         <!-- Portfolio Item -->
-                        <div class="grid-item sites" data-aos="fade-up">
+                        <div class="grid-item sites">
                             <div class="grid-item-wrapper">
                                 <img src="img/projetos/obras.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
