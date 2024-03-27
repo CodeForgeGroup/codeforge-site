@@ -15,7 +15,7 @@ FORGE
     <div class="container">
         <div class="section-content">
             <!-- Section Title -->
-            <div class="title-wrap mb-5" data-aos="fade-up">
+            <div class="title-wrap mb-5">
                 <h2 class="section-title">
                     Criado e feito por <a href="https://codeforgedev.com.br" target="_blank">CodeForge</a>
                 </h2>
@@ -30,14 +30,14 @@ FORGE
                     <div class="row">
                         <!-- Features Item -->
                         <div class="col-md-4 col-sm-12 text-center mt-4">
-                            <div class="shadow rounded feature-item p-4 mb-4" data-aos="fade-up">
+                            <div class="shadow rounded feature-item p-4 mb-4">
                                 <div class="my-4">
                                     <i class="lnr lnr-cog fs-40"></i>
                                 </div>
                                 <h4>Fácil de personalizar</h4>
                                 <p>Oferecemos soluções que são facilmente adaptáveis às suas necessidades específicas, permitindo uma personalização rápida e fácil para os requisitos do seu projeto.</p>
                             </div>
-                            <div class="shadow rounded feature-item p-4 mb-4" data-aos="fade-up">
+                            <div class="shadow rounded feature-item p-4 mb-4">
                                 <div class="my-4">
                                     <i class="lnr lnr-frame-contract fs-40"></i>
                                 </div>
@@ -48,14 +48,14 @@ FORGE
                         <!-- End of Feature Item -->
                         <!-- Features Item -->
                         <div class="col-md-4 col-sm-12 text-center">
-                            <div class="shadow rounded feature-item p-4 mb-4" data-aos="fade-up">
+                            <div class="shadow rounded feature-item p-4 mb-4">
                                 <div class="my-4">
                                     <i class="lnr lnr-bubble fs-40"></i>
                                 </div>
                                 <h4>Full Support</h4>
                                 <p>Estamos sempre aqui para ajudar. Oferecemos suporte completo durante todo o processo, desde a concepção até a implementação.</p>
                             </div>
-                            <div class="shadow rounded feature-item p-4 mb-4" data-aos="fade-up">
+                            <div class="shadow rounded feature-item p-4 mb-4">
                                 <div class="my-4">
                                     <i class="lnr lnr-magic-wand fs-40"></i>
                                 </div>
@@ -66,14 +66,14 @@ FORGE
                         <!-- End of Feature Item -->
                         <!-- Features Item -->
                         <div class="col-md-4 col-sm-12 text-center mt-4">
-                            <div class="shadow rounded feature-item p-4 mb-4" data-aos="fade-up">
+                            <div class="shadow rounded feature-item p-4 mb-4">
                                 <div class="my-4">
                                     <i class="lnr lnr-clock fs-40"></i>
                                 </div>
                                 <h4>Projeto no prazo</h4>
                                 <p>Comprometemo-nos a entregar seus projetos dentro do prazo acordado, mantendo a qualidade e garantindo que você tenha uma experiência tranquila e sem atrasos.</p>
                             </div>
-                            <div class="shadow rounded feature-item p-4 mb-4" data-aos="fade-up">
+                            <div class="shadow rounded feature-item p-4 mb-4">
                                 <div class="my-4">
                                     <i class="lnr lnr-thumbs-up fs-40"></i>
                                 </div>
@@ -97,13 +97,13 @@ FORGE
                 <div class="col-md-12">
                     <div class="row align-items-center text-white">
 
-                        <div class="col-md-4 offset-md-2 col-sm-6" data-aos="fade-right">
+                        <div class="col-md-4 offset-md-2 col-sm-6">
                             <h4 class="mb-4">Responsividade pratica e rapida para seus projetos</h4>
                             <p>Trabalhamos com o melhor alcance do mercado para que possamos proporcionar responsividade e acessibilidade para todos os clientes.</p>
                             <button type="button" class="btn btn-outline-primary">CONTATO</button>
                         </div><!--/ .col-md-4.col-md-offset-2.col-sm-6 -->
 
-                        <div class="col-md-4 offset-md-right-2 col-sm-6" data-aos="flip-right">
+                        <div class="col-md-4 offset-md-right-2 col-sm-6">
                             <img style="border-radius: 20px;" class="my-5" src="img/app-codeforge.png" alt="">
                         </div><!--/ .col-md-4.col-md-offset-right-2.col-sm-6 -->
 
@@ -367,7 +367,7 @@ FORGE
 </section>	<!-- Testimonial Section-->
 <section id="testimonial" class="section-padding bg-fixed bg-white overlay" style="background-image: url(img/bg-white.jpg);">
     <div class="container">
-        <div class="section-content" data-aos="fade-up">
+        <div class="section-content">
             <div class="heading-section text-center">
                 <h2>
                     Avaliações
@@ -449,7 +449,7 @@ FORGE
                         <div class="grid-sizer"></div>
                         <div class="gutter-sizer"></div>
                         <!-- Portfolio Item -->
-                        <div class="grid-item minimalism" data-aos="fade-up">
+                        <div class="grid-item minimalism">
                             <div class="grid-item-wrapper">
                                 <img src="img/Projetos/web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
@@ -470,7 +470,7 @@ FORGE
                         </div>
                         <!-- End of Portfolio Item -->
                         <!-- Portfolio Item -->
-                        <div class="grid-item vintage" data-aos="fade-up">
+                        <div class="grid-item vintage">
                             <div class="grid-item-wrapper">
                                 <img src="img/Projetos/355web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
@@ -491,7 +491,7 @@ FORGE
                         </div>
                         <!-- End of Portfolio Item -->
                         <!-- Portfolio Item -->
-                        <div class="grid-item creative grid-item-height" data-aos="fade-up">
+                        <div class="grid-item creative grid-item-height">
                             <div class="grid-item-wrapper">
                                 <img src="img/Projetos/532web.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
@@ -512,7 +512,7 @@ FORGE
                         </div>
                         <!-- End of Portfolio Item -->
                         <!-- Portfolio Item -->
-                        <div class="grid-item creative" data-aos="fade-up">
+                        <div class="grid-item creative">
                             <div class="grid-item-wrapper">
                                 <img src="img/photo-7.jpg" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
@@ -533,7 +533,7 @@ FORGE
                         </div>
                         <!-- End of Portfolio Item -->
                         <!-- Portfolio Item -->
-                        <div class="grid-item vintage" data-aos="fade-up">
+                        <div class="grid-item vintage">
                             <div class="grid-item-wrapper">
                                 <img src="img/Projetos/leflower.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
@@ -554,7 +554,7 @@ FORGE
                         </div>
                         <!-- End of Portfolio Item -->
                         <!-- Portfolio Item -->
-                        <div class="grid-item creative" data-aos="fade-up">
+                        <div class="grid-item creative">
                             <div class="grid-item-wrapper">
                                 <img src="img/Projetos/obras.png" alt="portfolio-img" class="portfolio-item">
                                 <div class="grid-info">
@@ -585,7 +585,7 @@ FORGE
 <!-- End of Portfolio Section -->	<!-- Client Section -->
 <section id="client" class="overlay bg-fixed" style="background-image: url(img/bg.jpg);">
     <div class="container">
-        <div class="section-content" data-aos="fade-up">
+        <div class="section-content">
             <div class="row ">
                 <div class="col-md-12">
                     <!-- Section Title -->
@@ -625,7 +625,7 @@ FORGE
 <section id="reservation" class="bg-white section-content">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-5 offset-lg-1 mb-5 mb-lg-0" data-aos="fade-right">
+            <div class="col-lg-5 offset-lg-1 mb-5 mb-lg-0">
                 <div class="bg-white p-5 shadow">
                     <div class="heading-section text-center">
                         <h2 class="mb-4">
@@ -653,7 +653,7 @@ FORGE
                     </form>
                 </div>
             </div>
-            <div class="col-lg-4 offset-lg-1" data-aos="fade-left">
+            <div class="col-lg-4 offset-lg-1">
                 <h2 class="mb-4">
                     Melhor solução para criar qualquer website. Pague uma vez.
                 </h2>

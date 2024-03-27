@@ -208,7 +208,7 @@ SOBRE
 <!-- SESSÃO EQUIPE -->
 
 <div class="equipe-container">
-    <div class="equipe-txt title-wrap aos-init aos-animate" data-aos="fade-up">
+    <div class="equipe-txt title-wrap aos-init aos-animate">
         <h2 class="section-title">Conheça Nossa <b>Equipe</b></h2>
         <p class="section-sub-title">Saiba mais sobre os especialistas que transformam suas ideias em realidade.</p>
     </div>

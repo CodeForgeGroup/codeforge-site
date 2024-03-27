@@ -153,7 +153,7 @@
 
 <section id="cta" class="bg-fixed overlay" style="background-image: url(img/bg.jpg);">
     <div class="container">
-        <div class="section-content" data-aos="fade-up">
+        <div class="section-content">
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h2 class="mb-2"><b>Code Forge</b> uma nova solução para seu desempenho.</h2>

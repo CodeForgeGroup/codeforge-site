@@ -5,11 +5,6 @@ CONTATO
 @endsection
 
 @section('title', 'Contato')
-{{-- <!-- SweetAlert -->
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
-<!-- EmailJS -->
-<script src="https://cdn.emailjs.com/dist/email.min.js"></script>
-<script src="./js/email.js"></script> --}}
 <!-- CSS -->
 <link rel="stylesheet" href="css/paginas.css">
 @section('conteudo')
