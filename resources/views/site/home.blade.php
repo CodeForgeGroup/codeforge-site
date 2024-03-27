@@ -297,8 +297,8 @@ FORGE
 
         <div style="margin-top: 2%;" class="social-link">
             <h3 style="font-size: 1rem;margin-bottom:1%;" class="text-center">Redes Sociais da Empresa</h3>
-            <i class="fab fa-github"></i>
-            <i class="fab fa-linkedin-in"></i>
+            <a href="https://github.com/CodeForgeGroup" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="mailto: codeforgegroup@gmail.com"><i class="fab ri-mail-fill"></i></a>
         </div>
       </div>
 
